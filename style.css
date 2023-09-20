@@ -59,6 +59,7 @@ background-color: #aeaeae;
 
     display:flex;
     flex-wrap: wrap;
+    justify-content: center;
 
 }
 
